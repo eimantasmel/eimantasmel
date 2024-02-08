@@ -14,19 +14,13 @@ I am receptive to innovation. Passionate about IT. I quickly catch the environme
 
 ## Skills
 - **Programming Languages:**
-  - HTML, CSS, JavaScript, Python, C#, PHP
+  - PHP, Python, C#, 
 - **Frameworks and Technologies:**
   - Symfony, Laravel, Express.js, .NET
 - **Databases:**
   - SQL, MongoDB
 - **Other Skills:**
   - UML, GIT, Ethereum, Solidity, Agile methodologies
-
-## Personal Details
-- **Date of Birth:** October 21st, 1999
-- **Driver's License:** AM B1 B
-- **Gender:** Male
-- **Nationality:** Lithuanian
 
 ## Languages
 - Lithuanian
@@ -40,4 +34,3 @@ I am receptive to innovation. Passionate about IT. I quickly catch the environme
 - Learning
 - Innovativeness
 
-I consent to the processing of my personal data for the purpose of recruitment for the position I am applying.
