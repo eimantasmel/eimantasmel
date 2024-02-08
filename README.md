@@ -1,4 +1,4 @@
-# Eimantas Melnikas
+# Eimantas
 
 ## Contact Information
 - **Location:** Kaunas, Lithuania
