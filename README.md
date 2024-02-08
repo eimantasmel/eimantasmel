@@ -1,8 +1,6 @@
 # Eimantas Melnikas
 
 ## Contact Information
-- **Email:** eimantasmel@gmail.com
-- **Phone:** +37068380433
 - **Location:** Kaunas, Lithuania
 
 ## Education
